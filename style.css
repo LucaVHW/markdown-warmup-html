@@ -16,6 +16,7 @@ h2 {
   text-align: left;
   border-style: groove;
   outline: black solid 2px;
+  text-shadow: 2px 2px 5px black;
 }
 a:hover {
   color: hotpink;
